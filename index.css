@@ -1,0 +1,13 @@
+td {
+  padding-right: 5rem;
+  border: dotted;
+}
+
+th {
+  padding-right: 5rem;
+}
+
+table {
+  border: solid;
+  border-collapse: collapse;
+}
